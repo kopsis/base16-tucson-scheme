@@ -8,7 +8,7 @@ that are easy on the eyes and don't turn code into rainbow soup. The
 base theme is optimized to get the appearance I wanted from the Vim
 template.
 
-Colors:
+## Colors
 
 * base00 - base07: desert earth tones
 * base08: desert sage
@@ -19,4 +19,8 @@ Colors:
 * base0D: palo verde flowers
 * base0E: coyote brown
 * base0F: desert poppy (duplicate)
+
+![Tucson Preview](png/tucson.png)
+
+![Tucson Example - Vim](png/example.png)
 
