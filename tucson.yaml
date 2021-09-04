@@ -1,18 +1,18 @@
 scheme: "Tucson"
 author: "Kopsis"
-base00: "141210"
-base01: "201e1b"
-base02: "47443f"
-base03: "4b4942"
-base04: "908061"
-base05: "a99670"
-base06: "c3b291"
-base07: "e6dbc4"
-base08: "69715b"
-base09: "793efd"
-base0A: "8bb365"
-base0B: "a9405d"
-base0C: "ee9b1b"
-base0D: "e2cd3a"
-base0E: "81613e"
-base0F: "7bb198"
+base00: "141210" #  0 (black)
+base01: "201e1b" # 10 (br-green)
+base02: "47443f" # 11 (br-yellow)
+base03: "4b4942" #  8 (br-black)
+base04: "908061" # 12 (br-blue)
+base05: "a99670" #  7 (white)
+base06: "c3b291" # 13 (br-magenta)
+base07: "e6dbc4" # 15 (br-white)
+base08: "81613e" #  1 (red) coyote brown
+base09: "ee9b1b" #  9 (br-red) poppy orange
+base0A: "e2cd3a" #  3 (yellow) palo verde yellow
+base0B: "8bb365" #  2 (green) saguaro green
+base0C: "69715b" #  6 (cyan) cholla
+base0D: "7bb198" #  4 (blue) bursage cyan
+base0E: "a9405d" #  5 (magenta) prickly pear magenta
+base0F: "793efd" # 14 (br-cyan) sunset purple

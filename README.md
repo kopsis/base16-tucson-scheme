@@ -12,14 +12,14 @@ template.
 
 * base00 - base01: velvet mesquite
 * base02 - base07: desert earth tones
-* base08: jumping cholla
-* base09: sunset sky
-* base0A: saguaro
-* base0B: prickly pear fruit
-* base0C: desert poppy
-* base0D: palo verde flowers
-* base0E: coyote brown
-* base0F: bursage
+* base08: coyote brown
+* base09: desert poppy
+* base0A: palo verde flowers
+* base0B: saguaro
+* base0C: jumping cholla
+* base0D: bursage
+* base0E: prickly pear fruit
+* base0F: sunset sky
 
 ![Tucson Preview](png/tucson.png)
 
