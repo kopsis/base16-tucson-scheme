@@ -7,7 +7,7 @@ struct MenuOption { std::string title; };
 // and has a title.
 class Menu : public std::vector<MenuOption> {
 public:
-    std::string title;
+    std::string title = "UNTITLED";
 
     void print() const {
         std::cout << title << ":\n";
